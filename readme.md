@@ -1,5 +1,7 @@
 # OCT23 T3W3 Web Project - Local Storage
 
+[nitlify](https://estherwebproject.netlify.app/)
+[github](https://estherszliu.github.io/webproject/src/index.html)
 # Features
 
 1. Use local storage to persist CSS theme information
