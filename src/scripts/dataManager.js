@@ -9,7 +9,6 @@ let pageTheme = "dark";
 
 /**
  * Retrieve, assign, and return the latest stored CSS theme list from the browser localstorage.
- * @author BigfootDS
  *
  * @returns Array of objects. 
  */
@@ -24,7 +23,6 @@ function getStoredCssThemes(){
 
 /**
  * Retrieve, assign, and return the latest stored page theme from the browser localstorage.
- * @author BigfootDS
  *
  * @returns String. Should be "light" or "dark".
  */
